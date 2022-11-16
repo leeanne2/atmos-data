@@ -1,4 +1,4 @@
-Time [mm:ss]	Range [m]	Vertical Speed [m/s]	Horizontal Speed [m/s]	Longitude [°]	Latitude [°]	Altitude [m]
+Time [mm:ss]	Range [m]	Vertical Speed [m/s]	Horizontal Speed [m/s]	Longitude [deg]	Latitude [deg]	Altitude [m]
 00:06       	181.0    	0.0                 	0.0                   	-88.22708    	40.1089     	271.6
 00:07       	181.0    	0.0                 	0.0                   	-88.22708    	40.1089     	271.6
 00:08       	181.0    	0.0                 	0.0                   	-88.22708    	40.1089     	271.6
